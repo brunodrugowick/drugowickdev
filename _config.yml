@@ -1,0 +1,47 @@
+title: Stackbit Fresh Theme
+baseurl: /
+permalink: '/:title/'
+collections:
+  posts:
+    permalink: '/posts/:title/'
+layout_style: overflow
+palette: blue
+header:
+  title: Bruno Drugowick
+  tagline: >-
+    I love helping people to understand and deal with technology. If I can build
+    something in the process, even better!
+  profile_img: >-
+    https://res.cloudinary.com/practicaldev/image/fetch/s--62D_jR0q--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/213112/5bb8eb2e-29a2-4307-be73-1ffdd76f8f9c.jpg
+  bg: dark
+  has_nav: true
+  has_social: true
+footer:
+  content: '&copy; All rights reserved.'
+  links:
+    - text: Made with Stackbit
+      url: 'https://www.stackbit.com'
+      new_window: true
+    - text: Generated from DEV
+      url: 'https://dev.to/connecting-with-stackbit'
+      new_window: true
+sass:
+  indentWidth: 4
+  style: nested
+  precision: 10
+plugins:
+  - jekyll-menus
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - ssg-build.sh
+  - LICENSE.md
+  - README.md
+  - netlify.toml
+  - stackbit-build.sh
+  - stackbit-pull.js
