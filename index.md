@@ -5,20 +5,21 @@ sections:
     component: hero_block.html
     type: heroblock
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      I love helping people to understand and deal with technology. 
+      If I can build something in the process, even better!
   - section_id: about
     component: content_block.html
     type: contentblock
     title: About
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      This is my personal website and blog. The blog mirrors my content from [dev.to](https://dev.to/brunodrugowick). I write about what I read. I read what I want to learn. I learn by doing!
+      
+      Currently I'm reading and learning about Spring, RESTful, APIs, JPA, Spring Data, Microservices etc.
+      
+      I'm a learner, help me interacting and teaching me. Everyone has something to say, everyone has a story to tell.
     actions:
-      - label: Contact Me
-        url: /contact
+      - label: More About Me
+        url: /about
   - section_id: recent-posts
     component: posts_block.html
     type: postsblock
