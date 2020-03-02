@@ -5,8 +5,7 @@ sections:
     component: hero_block.html
     type: heroblock
     content: >-
-      I love help people to thrive by helping them to understand and deal with technology. 
-      If I'm building something in the process, even better!
+      ---
   - section_id: about
     component: content_block.html
     type: contentblock
