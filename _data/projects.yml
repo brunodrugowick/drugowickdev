@@ -1,9 +1,15 @@
-- name: WIP AlgafoodAPI
+- name: AlgafoodAPI (WIP)
   description: A project based on a course from Algaworks. Algafood API is a REST API for a food delivery solution.
   github: https://github.com/brunodrugowick/algafood-api
   link: https://algafoodapi.herokuapp.com/
+  
+- name: Feedback Center (WIP)
+  decription: A simple way to create feedbacks for your team. Only available in brazilian portuguese. Use bruno.mahoney@email.com/password to login on the demo app.
+  github: https://github.com/brunodrugowick/three-hundred-sixty-poc
+  link: https://feedbackcenter.herokuapp.com/
+  
 
-- name: WIP Drugo Investments
+- name: Drugo Investments (WIP)
   description: An app to manage my investments. Developed on Spring Boot (Spring Security, Thymeleaf, JPA), Bootstrap and I plan to use VueJS + Axios at some point.
   github: https://github.com/brunodrugowick/investments-app
   link: https://drugo-investments-app.herokuapp.com/
