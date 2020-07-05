@@ -7,6 +7,11 @@
   decription: A simple way to create feedbacks for your team. Only available in brazilian portuguese. Use bruno.mahoney@email.com/password to log in.
   github: https://github.com/brunodrugowick/three-hundred-sixty-poc
   link: https://feedbackcenter.herokuapp.com/
+  
+- name: The API Boilerplate
+  description: A boilerplate for an API with the essential.
+  github: https://github.com/brunodrugowick/the-api-boilerplate
+  link: https://the-api-boilerplate.herokuapp.com/swagger-ui.html
 
 - name: Drugo Investments (WIP)
   description: An app to manage my investments. Developed on Spring Boot (Spring Security, Thymeleaf, JPA), Bootstrap and I plan to use VueJS + Axios at some point.
@@ -18,32 +23,7 @@
   github: https://github.com/brunodrugowick/at-the-tsbyss-leaderboard
   link: https://one-two.github.io/
   
-- name: Spring Boot HAL/HATEOAS API
-  description: Reimplemented the leaderboard for the at-the-tsbyss quickly using Spring Boot with REST, HAL/HATEOAS, Repositories etc.
-  github: https://github.com/brunodrugowick/at-the-tsbyss-leaderboard-springboot
-  link: https://drugo-spring-boot-hal-api.herokuapp.com/
-
-- name: Tindev
-  description: Project from "Semana Omnistack 8" with some of my own decisions. Backend + Frontend.
-  github: https://github.com/brunodrugowick/omnistack-tindev-backend
-  link: https://omnistack-tindev.herokuapp.com/
-
-- name: Instagram Clone
-  description: A very cool and addictive 2-week project that aims to mimic Instagram Feed with Like and Upload features using NodeJS as backend, React on the frontend and React Native on a mobile app. It uses websockets, which is nice! I added some features like comments, a red heart when you click like and made some of my own decisions when coding.
-  github: https://github.com/brunodrugowick/omnistack-quick-start-frontend
-  link: https://omnistack-quick-start-frontend.herokuapp.com/
-
-- name: Find PC Parts
-  description: A front end for a friend's app to learn more about Angular.
-  github: https://github.com/brunodrugowick/find-pc-parts-angular
-  link: https://upbeat-kirch-9dac54.netlify.com/
-
 - name: Boilerplate Spring Vue.js App
   description: A Spring Boot application with Thymeleaf handling the pages to be provided and Vue.js with Axios requesting additional data.
   github: https://github.com/brunodrugowick/springboot-vue-axios-boilerplate
   link: https://spring-vue-axios-boilerplate.herokuapp.com/
-
-- name: Drugo Petclinic
-  description: A parcial implementation of the well-known Spring Pet Clinic based on John Thompson's Udemy course.
-  github: https://github.com/brunodrugowick/drugo-petclinic
-  link: https://drugo-petclinic.herokuapp.com/
